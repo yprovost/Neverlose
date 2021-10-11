@@ -1,17 +1,11 @@
 {
   "de_dust2": [
     {
-      "name": ["T Spawn","Xbox"],
-      "weapon": "weapon_smokegrenade",
-      "position": [-300,-1163.9699707031,77.709999084473],
-      "viewangles": [-16.42,90.01],
-      "grenade":{
-	  "jump":true
-      "run": 1
-      }
-    },
-	
-	 }
-    }
-  ]
-}
+		"name":["T Spawn","Xbox"],
+		"weapon":"weapon_smokegrenade",
+		"position":[-300,-1163.9699707031,77.709999084473],
+		"viewangles":[-16.42,90.01],
+		"grenade":{
+		"jump":true
+	}
+},
