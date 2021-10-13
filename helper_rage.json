@@ -1,13 +1,136 @@
 {
   "de_dust2": [
-    {
-		"name":["T Spawn","Xbox"],
-		"weapon":"weapon_smokegrenade",
-		"position":[-300,-1163.9699707031,77.709999084473],
-		"viewangles":[-16.42,90.01],
+	{
+		"position":[489.96875,1446.0009765625,0.5529670715332],
+		"name":["Short","Oneway"],"viewangles":[-18.237102508545,121.49247741699],
+		"weapon":"weapon_smokegrenade"},{
 		"grenade":{
-		"jump":true
-	}
-  }
- ]
-}
+		"jump":true},
+		"viewangles":[-14.118165969849,99.482955932617],
+		"position":[1571.9974365234,374.58688354492,-139.56439208984],
+		
+		
+		"name":["","ct ramp"],
+		"weapon":"weapon_smokegrenade"},{
+		"position":[516.00354003906,983.90313720703,1.4912929534912],
+		
+		
+		"name":["","CT Spawn Smoke"],
+		"viewangles":[-52.022438049316,89.030548095703],
+		"weapon":"weapon_smokegrenade"},{
+		
+		
+		"name":["","CT Spawn Smoke"],
+		"viewangles":[-27.462091445923,140.10958862305],
+		"position":[489.86798095703,1649.5706787109,2.5517120361328],
+		"weapon":"weapon_smokegrenade"},{
+		"viewangles":[-35.120048522949,-113.71997833252],
+		"duck":true,
+		"position":[1300.0043945313,2342.9897460938,25.550575256348],
+		
+		
+		"name":["","CT Spawn Smoke"],
+		"weapon":"weapon_smokegrenade"},{
+		"grenade":{
+		"jump":true},
+		"viewangles":[-20.126739501953,53.286907196045],
+		"position":[-190.84471130371,-660.01062011719,52.359424591064],
+		
+		
+		"name":["","Long corner"],
+		"weapon":"weapon_smokegrenade"},{
+		"grenade":{
+		"jump":true},
+		"viewangles":[-15.867565155029,145.36332702637],
+		"position":[860.03125,790.00317382813,4.3243637084961],
+		
+		
+		"name":["","Mid to b smoke"],
+		"weapon":"weapon_smokegrenade"},{
+		"tickrate":128,
+		"grenade":{
+		"run":7},
+		"viewangles":[-18.038520812988,129.74389648438],
+		"position":[-149.00082397461,1176.0626220703,-0.5398200750351],
+		
+		
+		"name":["","Mid to b smoke"],
+		"weapon":"weapon_smokegrenade"},{
+		"viewangles":[-33.565181732178,131.7574005127],
+		"position":[-275.03125,1345.3721923828,-122.71593475342],
+		
+		
+		"name":["","Mid to b smoke"],
+		"weapon":"weapon_smokegrenade"},{
+		"viewangles":[-24.793514251709,-144.07281494141],
+		"position":[-983.68200683594,2553.2087402344,0.56574630737305],
+		
+		
+		"name":["","A ramp smoke"],
+		"weapon":"weapon_smokegrenade"},{
+		"tickrate":128,
+		"grenade":{
+		"run":100,
+		"jump":true},
+		"viewangles":[-12.668531417847,123.87026977539],
+		"position":[641.65856933594,-296.56121826172,1.5364036560059],
+		
+		
+		"name":["","CT Spawn"],
+		"weapon":"weapon_smokegrenade"},{
+		"viewangles":[2.5742886066437,76.033027648926],
+		"duck":true,
+		"position":[1235.9963378906,2560.005859375,99.370056152344],
+		
+		
+		"name":["","Oneway ramp"],
+		"weapon":"weapon_smokegrenade"},{
+		"viewangles":[-3.4973332881927,112.26812744141],
+		"position":[-1765.6059570313,993.98443603516,38.569580078125],
+		
+		
+		"name":["","B lurk smoke"],
+		"weapon":"weapon_smokegrenade"},{
+		"grenade":{"jump":true},
+		"viewangles":[-22.131923675537,119.54553222656],
+		"position":[-1765.6158447266,992.80853271484,38.584743499756],
+		
+		
+		"name":["","B Support flashed"],
+		"weapon":"weapon_flashbang"},{
+		"position":[740.96875,565.96875,1.3123016357422],
+		
+		
+		"name":["","Pop flash long"],
+		"viewangles":[-64.010841369629,58.49418258667],
+		"weapon":"weapon_flashbang"},{
+		"tickrate":128,
+		"grenade":{
+		"run":100},
+		"viewangles":[-56.8798828125,99.37117767334],
+		"position":[1571.984375,201.03076171875,-178.93739318848],
+		
+		
+		"name":["","A side smoke"],
+		"weapon":"weapon_smokegrenade"},{
+		"position":[-539.09997558594,1382.0013427734,-112.02841949463],
+		
+		
+		"name":["","Mid to b smoke"],
+		"viewangles":[-36.630470275879,53.78849029541],
+		"weapon":"weapon_smokegrenade"},{
+		"grenade":{
+		"jump":true},
+		"viewangles":[-6.6984491348267,84.509223937988],
+		"position":[-509.55004882813,-662.22570800781,127.081199646],
+		
+		
+		"name":["T side","Xbox"],
+		"weapon":"weapon_smokegrenade"},{
+		"grenade":{
+		"jump":true},
+		"viewangles":[-23.436658859253,56.412803649902],
+		"position":[-641.73736572266,493.99987792969,9.0595149993896],
+		
+		
+		"name":["","Ct spawn smoke"],"weapon":"weapon_smokegrenade"}]}
